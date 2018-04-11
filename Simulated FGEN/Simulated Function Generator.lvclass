@@ -18,7 +18,7 @@
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.3</Property>
-	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"`!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9BJ'&gt;7ZD&gt;'FP&lt;C"(:7ZF=G&amp;U&lt;X)O&lt;(:D&lt;'&amp;T=V"53$!!!!"*!!!!"1E]&gt;8.F=GRJ9DY21W^N&lt;7^O)%.P&lt;8"P&lt;G6O&gt;(-)3'&amp;S:(&gt;B=G5%2E&gt;&amp;4BJ'&gt;7ZD&gt;'FP&lt;C"(:7ZF=G&amp;U&lt;X)O&lt;(:D&lt;'&amp;T=Q!!!!!</Property>
+	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#0!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9BJ'&gt;7ZD&gt;'FP&lt;C"(:7ZF=G&amp;U&lt;X)O&lt;(:D&lt;'&amp;T=V"53$!!!!":!!%!#1!!!!V.15QN2H*B&lt;76X&lt;X*L#(6T:8)O&lt;'FC%5.P&lt;7VP&lt;C"$&lt;WVQ&lt;WZF&lt;H2T#%BB=G2X98*F"%:(25Y;2H6O9X2J&lt;WYA2W6O:8*B&gt;'^S,GRW9WRB=X-!!!!!</Property>
 	<Item Name="Simulated Function Generator.ctl" Type="Class Private Data" URL="Simulated Function Generator.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

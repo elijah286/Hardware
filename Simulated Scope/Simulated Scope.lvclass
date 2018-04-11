@@ -18,7 +18,7 @@
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.3</Property>
-	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"H!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9AV49W^Q:3ZM&gt;G.M98.T!&amp;"53$!!!!!^!!!!"1E]&gt;8.F=GRJ9DY21W^N&lt;7^O)%.P&lt;8"P&lt;G6O&gt;(-)3'&amp;S:(&gt;B=G5&amp;5W.P='5.5W.P='5O&lt;(:D&lt;'&amp;T=Q!!!!!</Property>
+	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"X!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9AV49W^Q:3ZM&gt;G.M98.T!&amp;"53$!!!!".!!%!#1!!!!V.15QN2H*B&lt;76X&lt;X*L#(6T:8)O&lt;'FC%5.P&lt;7VP&lt;C"$&lt;WVQ&lt;WZF&lt;H2T#%BB=G2X98*F"6.D&lt;X"F$6.D&lt;X"F,GRW9WRB=X-!!!!!</Property>
 	<Item Name="Simulated Scope.ctl" Type="Class Private Data" URL="Simulated Scope.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

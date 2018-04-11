@@ -18,7 +18,7 @@
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.3</Property>
-	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"B!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9AN15V5O&lt;(:D&lt;'&amp;T=Q"16%AQ!!!!/1!!!!5*0(6T:8*M;7)_%5.P&lt;7VP&lt;C"$&lt;WVQ&lt;WZF&lt;H2T#%BB=G2X98*F!V"461N15V5O&lt;(:D&lt;'&amp;T=Q!!!!!</Property>
+	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"R!!!!!AZ)98*E&gt;W&amp;S:3ZM&gt;GRJ9AN15V5O&lt;(:D&lt;'&amp;T=Q"16%AQ!!!!31!"!!E!!!!.45&amp;-,5:S97VF&gt;W^S;QBV=W6S,GRJ9B&amp;$&lt;WVN&lt;WYA1W^N='^O:7ZU=QB)98*E&gt;W&amp;S:1.15V5,5&amp;.6,GRW9WRB=X-!!!!!</Property>
 	<Item Name="PXI 4110.ctl" Type="Class Private Data" URL="PXI 4110.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
